@@ -1,0 +1,191 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/roy/Documentos/AGETIC/" . "permisos/")
+ ("/home/roy/Documentos/" . "AGETIC/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/" . "pdf-templates/")
+ ("/home/roy/Desarrollo/agetic/circulacion/" . "policia-autorizacion-backend/")
+ ("/home/roy/Desarrollo/agetic/" . #("circulacion/" 0 3 (face flx-highlight-face)))
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/" . "system/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/" . "system/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/" . "controllers/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/" . "config/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/" . "infrastructure/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/" . "lib/")
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/" . "src/")
+ ("/home/roy/Desarrollo/proyecto/" . "hemeroteca-backend/")
+ ("/home/roy/Desarrollo/personal/" . "emacs_config/")
+ ("/home/roy/Desarrollo/" . #("agetic/" 0 3 (face flx-highlight-face)))
+ ("/home/roy/" . "Documentos/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ #("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/" 10 21 (face flx-highlight-face) 21 24 (face flx-highlight-face) 28 31 (face flx-highlight-face))
+ "/home/roy/Documentos/"
+ "/home/roy/Desarrollo/personal/mario/"
+ "/home/roy/Documentos/TallerII/2020/"
+ "/home/roy/Documentos/AGETIC/permisos/"
+ "/home/roy/Desarrollo/agetic/ovt/mintrabajo-planillas-frontend/"
+ "/home/roy/Desarrollo/agetic/ovt/mintrabajo-planillas-frontend/gulp/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/config/"
+ "/home/roy/Desarrollo/personal/wifi/"
+ "/home/roy/"
+ "/home/roy/.emacs.d/"
+ "/home/roy/Documentos/archivos/"
+ "/home/roy/Desarrollo/personal/wifi/wifite2/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-frontend/"
+ "/home/roy/Desarrollo/personal/unir_pdfs/trabajo1/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/pdf-templates/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/lib/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/system/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/services/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/public/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/system/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/public/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/seeders-templates/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/value-objects/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/value-objects/system/usuario/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/value-objects/general/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/lib/"
+ "/home/roy/Desarrollo/personal/23_mayo/frontend/src/views/"
+ "/home/roy/Desarrollo/personal/23_mayo/frontend/src/"
+ "/home/roy/Desarrollo/personal/23_mayo/frontend/"
+ "/home/roy/Desarrollo/proyecto/hemeroteca-backend/resources/servicios/logic/"
+ "/home/roy/Desarrollo/proyecto/hemeroteca-backend/resources/admin/controller/"
+ "/home/roy/Desarrollo/proyecto/hemeroteca-backend/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CAMBIOS.md"
+ "TallerII.tar.bz2"
+ "reunion14Abril.md"
+ "Service.js"
+ "auth.js"
+ "correo_aprobacion.js"
+ "ValueObject.js"
+ "PdfController.js"
+ ".emacs"
+ "INSTALL.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ (#("/home/roy/Desarrollo/agetic/circulacion/" 10 21 (face flx-highlight-face) 21 24 (face flx-highlight-face) 28 31 (face flx-highlight-face)) (24216 24560 9899 974000) "policia-autorizacion-frontend/" "./" "policia-autorizacion-backend/" "../")
+
+ (#("/home/roy/Desarrollo/agetic/" 10 21 (face flx-highlight-face) 21 24 (face flx-highlight-face)) (24212 32647 11319 621000) "./" "gob.bo/" "circulacion/" "../" "ovt/")
+
+ ("/home/roy/" (24220 23652 67214 41000) "Examen/" ".gnupg/" "Dropbox/" ".cache/" "Juegos/" ".ssh/" ".fonts.conf" ".android/" ".fzf/" ".wget-hsts" ".zoom/" ".zsh_history_bad" ".gtkrc-2.0" "Android/" ".bashrc" ".emacs" "Discos Iso/" "./" "Descargas/" ".mozilla/" ".yarnrc" ".Xauthority" ".vuerc" ".yarn/" ".xsession-errors" ".gnome/" ".gimp-2.8/" ".sudo_as_admin_successful" ".bash_logout" "pdfs/" ".npmrc" "Público/" "Documentos/" ".bash_history" ".profile" ".PlayOnLinux/" ".fzf.bash" "package-lock.json" "Programas/" "PlayOnLinux's virtual drives/" ".dropbox-dist/" "Imágenes/" ".local/" "bases de datos/" ".config/" "Música/" ".swt/" ".thumbnails/" ".dropbox/" ".remarkable/" ".npm/" ".oh-my-zsh/" "Plantillas/" "VirtualBox VMs/" ".node-gyp/" ".zcompdump-roy-All-Series-5.4.2" ".gphoto/" "Desarrollo/" "Escritorio/" ".zcompdump" ".dbus/" ".psensor/" ".gitconfig" ".eclipse/" ".pki/" "snap/" ".fzf.zsh" ".zshrc" ".gconf/" ".kde/" "prueba/" ".emacs.d/" ".AndroidStudio3.5/" ".wine/" ".shell.pre-oh-my-zsh" ".node_repl_history" "node_modules/" "../" ".zsh_history" "Vídeos/" ".python_history" ".java/")
+
+ ("/home/roy/Desarrollo/proyecto/hemeroteca-backend/" (24183 37993 339633 209000) "package.json" "requirements.txt" "README.md" "INSTALL_CELERY.md" "apidoc-source.yml" "__pycache__/" ".gitignore" "./" "MIGRACION.md" "ghostdriver.log" "seed.py" "INSTALL.md" "app.py" "Model.py" "libs/" "migrations/" "INSTALL_ELASTICSEARCH.md" "tools/" ".flake8" "logs/" "run.py" ".git/" "public/" "resources/" "config/" "../" "app_admin.py" "migrate.py" "tests/")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/lib/" (24215 5382 492009 806000) "pdf.js" "./" "util.js" "upload.js" "auth.js" "ip.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/value-objects/general/" (24215 5382 496009 776000) "Bool.js" "Integer.js" "./" "Text.js" "Email.js" "Decimal.js" "DateOnly.js" "Url.js" "Datetime.js" "Enum.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/value-objects/system/usuario/" (24215 5382 496009 776000) "UsuarioNroIntentos.js" "UsuarioFechaBloqueo.js" "UsuarioEmailVerifiedAt.js" "./" "UsuarioEstado.js" "UsuarioCargo.js" "UsuarioEmail.js" "UsuarioUsuario.js" "UsuarioFechaReseteoPass.js" "UsuarioUltimoLogin.js" "UsuarioToken.js" "UsuarioContrasena.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/value-objects/" (24215 5382 496009 776000) "./" "ValueObject.js" "general/" "system/" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/seeders-templates/" (24215 5382 504009 714000) "correo-tmpl.js" "./" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/" (24215 5382 492009 806000) "./" "index.js" "public/" "system/" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/public/" (24218 26125 748942 843000) "SolicitudController.js" "AuthController.js" "./" "UbicacionController.js" "ValidationController.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/system/" (24218 26829 940553 314000) "./" "UsuarioController.js" "TokenController.js" "PdfController.js" "SolicitudesController.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/" (24215 9250 611814 255000) "package.json" "README.md" "ssl/" "COLABORACIÓN.md" "doc/" ".gitignore" "./" "UPGRADE.md" "INSTALL.md" "cronjob/" "CAMBIOS.md" "package-lock.json" "deploy/" "LICENCIA.md" ".git/" "public/" "node_modules/" "src/" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/public/" (24218 26125 748942 843000) "UbicacionRoute.js" "./" "SolicitudRoute.js" "AuthRoute.js" "ValidationRoute.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/services/" (24215 5382 496009 776000) "./" "system/" "../" "Service.js")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/system/" (24215 47686 229088 196000) "SolicitudesRoute.js" "./" "PdfRoute.js" "UsuarioRoute.js" "TokenRoute.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/lib/" (24215 5382 492009 806000) "object.js" "mail.js" "./" "sequelize-crud/" "i18n.js" "array.js" "errors.js" "../" "text.js")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/pdf-templates/" (24215 47686 229088 196000) "correo_anulado.js" "./" "pdf_reporte.html" "correo_aprobacion.js" "correo_rechazado.js" "../" "pdf_permiso_circulacion.html")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-frontend/" (24213 61081 405250 287000) "package.json" ".babelrc" "README.md" "ssl/" ".gitignore" "server-secure.js" "./" "INSTALL.md" ".eslintrc.js" ".postcssrc.js" ".eslintignore" "package-lock.json" "data-auth.json" "CHANGELOG" "documentation/" "build/" ".editorconfig" ".git/" "static/" "config/" "node_modules/" "src/" "../" "server.js" "index.html")
+
+ ("/home/roy/Documentos/archivos/" (24216 34076 383293 230000) "./" "vacio.md" "er2.md" "../")
+
+ ("/home/roy/.emacs.d/" (24218 31793 283845 152000) "elpy/" "./" "ido.last" "auto-save-list/" "ac-comphist.dat" "snippets/" "elpa/" ".mc-lists.el" "helm/" "../")
+
+ ("/home/roy/Desarrollo/personal/wifi/" (24207 61614 298802 351000) "wifite2/" "env2/" "diccionario.txt" "./" "env/" "WIFI-Brute-Force/" "hack.py" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/config/" (24218 26732 801546 34000) "openid.js" "mail.js" "./" "index.js" "extra.js.sample" "db.js" "db.js.sample" "auth.js" "extra.js" "mail.js.sample" "openid.js.sample" "../")
+
+ ("/home/roy/Desarrollo/agetic/ovt/mintrabajo-planillas-frontend/gulp/" (24212 36070 359235 699000) "e2e-tests.js" "build.js" "./" "scripts.js" "unit-tests.js" ".eslintrc" "watch.js" "conf.js" "inject.js" "styles.js" "../" "server.js")
+
+ ("/home/roy/Desarrollo/agetic/ovt/mintrabajo-planillas-frontend/" (24212 64831 319211 894000) "personal.sublime-project" "package.json" "test/" "README.md" "bower.json" "gulp/" "yarn.lock" ".gitignore" "personal.sublime-workspace" "./" "INSTALL.md" ".tmp/" "UPDATE.md" "bower_components/" "lib/" "nbproject/" "gulpfile.js" "e2e/" ".yo-rc.json" ".replace.sh" ".bowerrc" ".eslintrc" "version" "protractor.conf.js" "SCRIPTS.md" "npm-debug.log" ".editorconfig" ".git/" "karma.conf.js" "node_modules/" "src/" "../" "server.js")
+
+ ("/home/roy/Documentos/AGETIC/permisos/" (24215 54188 648217 830000) "./" "reunion14Abril.md" "migracion.md" "../")
+
+ ("/home/roy/Documentos/TallerII/2020/" (24219 14078 915144 864000) "README.md" "./" "avance.md" ".~lock.001_2020.odt#" "caratula.odt" ".git/" "001_2020.odt" "../")
+
+ ("/home/roy/Desarrollo/personal/mario/" (24218 5890 696186 165000) "./" "ground.png" "cylinder.png" "env/" "bajado/" "mario.py" "mario.png" "../")
+
+ ("/home/roy/Documentos/AGETIC/" (24213 52252 165848 420000) "OVT/" "./" "app (copia).json" "permisos/" "../")
+
+ ("/home/roy/Documentos/" (24212 39781 458011 527000) "archivos/" "Carmen/" "TallerII.tar.bz2" "./" "Trabajo/" "Sin nombre.png" "AGETIC/" "TallerII/" "Diablo II/" "../")
+
+ ("/home/roy/Desarrollo/personal/wifi/wifite2/" (24207 38779 875456 881000) "README.md" "PMKID.md" ".gitignore" "./" "MANIFEST.in" "wifite/" "EVILTWIN.md" "setup.py" "LICENSE" "wordlist-top4800-probable.txt" "Dockerfile" "Wifite.py" ".git/" "bin/" "runtests.sh" "../" "tests/" "TODO.md" "setup.cfg")
+
+ ("/home/roy/Desarrollo/personal/unir_pdfs/trabajo1/" (24199 59813 7317 94000) "salida.pdf" "./" "convertir.py" "hoja1.pdf" "hoja2.pdf" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/domain/services/system/" (24185 3260 560023 444000) "PersonaService.js" "ModuloService.js" "MunicipioService.js" "./" "RolService.js" "UsuarioService.js" "PermisoService.js" "DepartamentoService.js" "AuthService.js" "TokenService.js" "EntidadService.js" "SolicitudService.js" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/" (24183 63581 184368 294000) "pdf-templates/" "models/" "setup.js" "seeders-migrations/" "./" "index.js" "lang/" "seeders/" "lib/" "associations.js" "seeders-templates/" "hooks/" "../" "tests/" "repositories/")
+
+ ("/home/roy/Desarrollo/" (24183 57780 458074 375000) "agetic/" "./" "personal/" "proyecto/" "hemeroteca-backend/" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/" (24183 58188 587222 935000) "README.md" ".gitignore" "./" "index.js" "lib/" "config/" "../" "tests/")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/" (24184 3994 95975 971000) "./" "application/" "images/" "common/" "infrastructure/" "domain/" "../")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/public/" (24183 58188 587222 935000) "./" "../" "index.html")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/" (24183 58188 587222 935000) "setup.js" "graphql/" "./" "index.js" "api/" "lib/" "../" "server.js")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/" (24183 58188 587222 935000) "./" "index.js" "routes/" "../" "controllers/")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/" (24183 58188 587222 935000) "./" "public/" "system/" "../")
+
+ ("/home/roy/Android/Sdk/" (24024 42170 560401 50000) ".knownPackages" "./" ".temp/" "platform-tools/" "build-tools/" "tools/" "emulator/" "platforms/" "patcher/" "sources/" "../")
+
+ ("/home/roy/Android/" (24024 40026 805346 600000) "./" "Sdk/" "../")
+
+ ("/home/roy/Desarrollo/personal/23_mayo/frontend/src/components/" (24123 29764 747095 779000) "./" ".#HelloWorld.vue" "HelloWorld.vue" "../")
+
+ ("/home/roy/Desarrollo/personal/" (24123 25594 401028 950000) "./" "23_mayo/" "emacs_config/" "express/" "../")
+
+ ("/home/roy/Desarrollo/personal/23_mayo/" (24123 28872 919870 455000) "./" "frontend/" "23-mayo/" "../")
+
+ ("/home/roy/Desarrollo/personal/23_mayo/frontend/" (24123 29014 25914 10000) "babel.config.js" "package.json" "README.md" "yarn.lock" ".gitignore" "./" "vue.config.js" "package-lock.json" ".editorconfig" ".git/" "public/" "node_modules/" "src/" "../")
+
+ ("/home/roy/Desarrollo/personal/23_mayo/frontend/src/router/" (24123 28927 867130 887000) "./" "index.js" "../")
+
+ ("/home/roy/Desarrollo/personal/23_mayo/frontend/src/views/" (24123 28927 867130 887000) "./" "Home.vue" "About.vue" "../")
+
+ ("/home/roy/Desarrollo/personal/23_mayo/frontend/src/" (24123 29230 706607 660000) "store/" "./" "components/" "App.vue" "router/" "main.js" "assets/" "../" "views/")
+
+ ("/home/roy/Desarrollo/proyecto/hemeroteca-backend/resources/" (24094 11702 0 0) "./" "servicios/" "admin/" "../")
+
+ ("/home/roy/Desarrollo/proyecto/hemeroteca-backend/resources/servicios/" (24112 50074 568880 364000) "CodigoFuente.py" "logic/" "__pycache__/" "./" "Categoria.py" "Enlace.py" "Estado.py" "SitioWeb.py" "Noticia.py" "../")
+
+ ("/home/roy/Desarrollo/proyecto/hemeroteca-backend/resources/servicios/logic/" (24112 47432 374507 775000) "__pycache__/" "./" "__init__.py" "AutorLogic.py" "NoticiaLogic.py" "ImagenLogic.py" "CodigoFuenteLogic.py" "recupera_urls.py" "SitioWebLogic.py" "EnlaceLogic.py" "../" "periodicos/")
+
+ ("/home/roy/Desarrollo/proyecto/hemeroteca-backend/resources/admin/controller/" (24113 5191 710990 174000) "Autenticar.py" "__pycache__/" "./" "OpenIdAuth.py" "../")
+
+ ("/home/roy/Desarrollo/proyecto/" (24112 44921 583536 570000) "hemeroteca-frontend/" "./" "traspaso tecnologico.tar.gz" "traspaso tecnologico/" "hemeroteca-backend/" "../")
+
+ ("/home/roy/Desarrollo/personal/emacs_config/" (23899 23601 305715 687000) "README.md" "emacs" "./" "captura.png" "LICENSE" ".git/" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
