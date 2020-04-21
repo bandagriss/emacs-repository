@@ -2,11 +2,13 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/roy/Desarrollo/personal/captcha/" . "node_modules/")
+ ("/home/" . "roy/")
  ("/home/roy/Documentos/AGETIC/" . "permisos/")
  ("/home/roy/Documentos/" . "AGETIC/")
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/" . "pdf-templates/")
  ("/home/roy/Desarrollo/agetic/circulacion/" . "policia-autorizacion-backend/")
- ("/home/roy/Desarrollo/agetic/" . #("circulacion/" 0 3 (face flx-highlight-face)))
+ ("/home/roy/Desarrollo/agetic/" . "circulacion/")
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/controllers/" . "system/")
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/routes/" . "system/")
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/api/" . "controllers/")
@@ -15,14 +17,17 @@
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/application/" . "lib/")
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/" . "src/")
  ("/home/roy/Desarrollo/proyecto/" . "hemeroteca-backend/")
- ("/home/roy/Desarrollo/personal/" . "emacs_config/")
- ("/home/roy/Desarrollo/" . #("agetic/" 0 3 (face flx-highlight-face)))
- ("/home/roy/" . "Documentos/")
+ ("/home/roy/Desarrollo/personal/" . "leer xls/")
+ ("/home/roy/Desarrollo/" . "personal/")
+ ("/home/roy/" . "Desarrollo/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- #("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/" 10 21 (face flx-highlight-face) 21 24 (face flx-highlight-face) 28 31 (face flx-highlight-face))
+ "/home/roy/Desarrollo/personal/leer xls/"
+ "/home/roy/"
+ "/home/roy/Desarrollo/personal/captcha/"
+ "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/"
  "/home/roy/Documentos/"
  "/home/roy/Desarrollo/personal/mario/"
  "/home/roy/Documentos/TallerII/2020/"
@@ -31,7 +36,6 @@
  "/home/roy/Desarrollo/agetic/ovt/mintrabajo-planillas-frontend/gulp/"
  "/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/config/"
  "/home/roy/Desarrollo/personal/wifi/"
- "/home/roy/"
  "/home/roy/.emacs.d/"
  "/home/roy/Documentos/archivos/"
  "/home/roy/Desarrollo/personal/wifi/wifite2/"
@@ -60,6 +64,9 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "inicio.py"
+ ".emacs"
+ "server.js"
  "CAMBIOS.md"
  "TallerII.tar.bz2"
  "reunion14Abril.md"
@@ -67,18 +74,27 @@
  "auth.js"
  "correo_aprobacion.js"
  "ValueObject.js"
- "PdfController.js"
- ".emacs"
- "INSTALL.md"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- (#("/home/roy/Desarrollo/agetic/circulacion/" 10 21 (face flx-highlight-face) 21 24 (face flx-highlight-face) 28 31 (face flx-highlight-face)) (24216 24560 9899 974000) "policia-autorizacion-frontend/" "./" "policia-autorizacion-backend/" "../")
+ ("/home/roy/" (24223 4525 799261 978000) "./" ".gitconfig" ".zshrc.pre-oh-my-zsh" ".zcompdump" ".gconf/" ".bully/" ".python_history" ".vue-cli-ui/" ".gimp-2.8/" ".yarnrc" ".fzf.zsh" ".bash_history" ".zcompdump-roy-UX310UAK-5.4.2" ".ICEauthority" ".bashrc" ".zshrc" "../" ".linuxmint/" ".wget-hsts" ".Xauthority" ".cache/" "Plantillas/" "Programas/" ".thumbnails/" "Escritorio/" ".xsession-errors" ".zsh_history" ".xsession-errors.old" ".mozilla/" ".fzf/" "Descargas/" ".eclipse/" ".ssh/" "llaves/" ".emacs.d/" ".fzf.bash" ".bash_logout" ".emacs" ".zoom/" ".config/" "permisos/" "Documentos/" "Imágenes/" ".pki/" ".profile" ".thunderbird/" ".vuerc" ".gtkrc-2.0" ".cinnamon/" ".swt/" "Desarrollo/" ".local/" ".oh-my-zsh/" ".gnome/" "Público/" ".sudo_as_admin_successful" ".npm/" "Vídeos/" "Música/" ".yarn/" ".gnupg/" ".gtkrc-xfce" ".lesshst")
 
- (#("/home/roy/Desarrollo/agetic/" 10 21 (face flx-highlight-face) 21 24 (face flx-highlight-face)) (24212 32647 11319 621000) "./" "gob.bo/" "circulacion/" "../" "ovt/")
+ ("/home/roy/Desarrollo/personal/leer xls/" (24194 36225 695798 178000) "./" "trim/" "plantilla-base.csv" "verificando de juanca/" "env/" "Solicitud.xlsx" "IC-NORTE.csv" "../" "solicitud.csv" "solicitud-cbn.csv" "inicio.py" "AFS_BOLIVIA.csv")
 
- ("/home/roy/" (24220 23652 67214 41000) "Examen/" ".gnupg/" "Dropbox/" ".cache/" "Juegos/" ".ssh/" ".fonts.conf" ".android/" ".fzf/" ".wget-hsts" ".zoom/" ".zsh_history_bad" ".gtkrc-2.0" "Android/" ".bashrc" ".emacs" "Discos Iso/" "./" "Descargas/" ".mozilla/" ".yarnrc" ".Xauthority" ".vuerc" ".yarn/" ".xsession-errors" ".gnome/" ".gimp-2.8/" ".sudo_as_admin_successful" ".bash_logout" "pdfs/" ".npmrc" "Público/" "Documentos/" ".bash_history" ".profile" ".PlayOnLinux/" ".fzf.bash" "package-lock.json" "Programas/" "PlayOnLinux's virtual drives/" ".dropbox-dist/" "Imágenes/" ".local/" "bases de datos/" ".config/" "Música/" ".swt/" ".thumbnails/" ".dropbox/" ".remarkable/" ".npm/" ".oh-my-zsh/" "Plantillas/" "VirtualBox VMs/" ".node-gyp/" ".zcompdump-roy-All-Series-5.4.2" ".gphoto/" "Desarrollo/" "Escritorio/" ".zcompdump" ".dbus/" ".psensor/" ".gitconfig" ".eclipse/" ".pki/" "snap/" ".fzf.zsh" ".zshrc" ".gconf/" ".kde/" "prueba/" ".emacs.d/" ".AndroidStudio3.5/" ".wine/" ".shell.pre-oh-my-zsh" ".node_repl_history" "node_modules/" "../" ".zsh_history" "Vídeos/" ".python_history" ".java/")
+ ("/home/roy/Desarrollo/personal/captcha/node_modules/" (24190 7971 395694 38000) "body-parser/" "./" "methods/" "fresh/" "ms/" "negotiator/" "cookie/" "safe-buffer/" "mime-db/" "encodeurl/" "content-type/" "media-typer/" "toidentifier/" "serve-static/" "utils-merge/" "debug/" "iconv-lite/" "content-disposition/" "unpipe/" "parseurl/" "express/" "cookie-signature/" "../" "isomorphic-fetch/" "node-fetch/" "statuses/" "vary/" "mime/" "path-to-regexp/" "mime-types/" "whatwg-fetch/" "setprototypeof/" "send/" "escape-html/" ".bin/" "ipaddr.js/" "etag/" "proxy-addr/" "type-is/" "accepts/" "ee-first/" "destroy/" "bytes/" "inherits/" "qs/" "range-parser/" "http-errors/" "depd/" "is-stream/" "safer-buffer/" "dotenv/" "encoding/" "array-flatten/" "on-finished/" "raw-body/" "finalhandler/" "merge-descriptors/" "forwarded/")
+
+ ("/home/" (24186 33991 967851 738000) "./" "../" "roy/")
+
+ ("/home/roy/Desarrollo/personal/captcha/" (24190 8809 439197 37000) "./" "../" "public/" "server.js" "package.json" ".env" "node_modules/" "package-lock.json")
+
+ ("/home/roy/Desarrollo/personal/" (24223 2180 442904 260000) "./" "hcxtools/" "hcxdumptool/" "bully/" "../" "WIFI-Brute-Force/" "captcha/" "hashcat/" "emacs-repository/" "leer xls/" "reaver-wps-fork-t6x/" "wifite2/" "curso/")
+
+ ("/home/roy/Desarrollo/" (24187 47321 582357 351000) "./" "agetic/" "../" "pruebas/" "personal/")
+
+ ("/home/roy/Desarrollo/agetic/circulacion/" (24216 24560 9899 974000) "policia-autorizacion-frontend/" "./" "policia-autorizacion-backend/" "../")
+
+ ("/home/roy/Desarrollo/agetic/" (24212 32647 11319 621000) "./" "gob.bo/" "circulacion/" "../" "ovt/")
 
  ("/home/roy/Desarrollo/proyecto/hemeroteca-backend/" (24183 37993 339633 209000) "package.json" "requirements.txt" "README.md" "INSTALL_CELERY.md" "apidoc-source.yml" "__pycache__/" ".gitignore" "./" "MIGRACION.md" "ghostdriver.log" "seed.py" "INSTALL.md" "app.py" "Model.py" "libs/" "migrations/" "INSTALL_ELASTICSEARCH.md" "tools/" ".flake8" "logs/" "run.py" ".git/" "public/" "resources/" "config/" "../" "app_admin.py" "migrate.py" "tests/")
 
@@ -142,8 +158,6 @@
 
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/infrastructure/" (24183 63581 184368 294000) "pdf-templates/" "models/" "setup.js" "seeders-migrations/" "./" "index.js" "lang/" "seeders/" "lib/" "associations.js" "seeders-templates/" "hooks/" "../" "tests/" "repositories/")
 
- ("/home/roy/Desarrollo/" (24183 57780 458074 375000) "agetic/" "./" "personal/" "proyecto/" "hemeroteca-backend/" "../")
-
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/common/" (24183 58188 587222 935000) "README.md" ".gitignore" "./" "index.js" "lib/" "config/" "../" "tests/")
 
  ("/home/roy/Desarrollo/agetic/circulacion/policia-autorizacion-backend/src/" (24184 3994 95975 971000) "./" "application/" "images/" "common/" "infrastructure/" "domain/" "../")
@@ -161,8 +175,6 @@
  ("/home/roy/Android/" (24024 40026 805346 600000) "./" "Sdk/" "../")
 
  ("/home/roy/Desarrollo/personal/23_mayo/frontend/src/components/" (24123 29764 747095 779000) "./" ".#HelloWorld.vue" "HelloWorld.vue" "../")
-
- ("/home/roy/Desarrollo/personal/" (24123 25594 401028 950000) "./" "23_mayo/" "emacs_config/" "express/" "../")
 
  ("/home/roy/Desarrollo/personal/23_mayo/" (24123 28872 919870 455000) "./" "frontend/" "23-mayo/" "../")
 
