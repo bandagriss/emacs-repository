@@ -4,7 +4,7 @@
     * Sistema Operativo Linux 
     * emacs >=26
 
-![captura editor de texto emacs](./captura.png  "captura")
+![captura editor de texto emacs](captura.png)
     
 ### Paquetes ###
 Para que funcione correctamente debera tener instalado los siguientes paquetes:
