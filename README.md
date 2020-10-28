@@ -39,5 +39,11 @@ cp emacs ~/.emacs
 cp -rf emacs.d ~/.emacs.d
 ```
 
+3.- Opcional
+Si esta trabajando con zsh agregar esto al archivo .zshrc
+
+```bash
+[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
+```
 
 *Creado por Roy*
